@@ -41,7 +41,7 @@ This repository includes two artificial neural network (ANN) projects: CIFAR-10 
    Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/ann-projects.git
+   git clone https://github.com/FihriSina/Artificial-Neural-Network-Projects.git
    ```
 
 2. Gerekli Python kütüphanelerini yükleyin:
